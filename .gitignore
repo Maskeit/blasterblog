@@ -1,0 +1,11 @@
+# Ignorar node_modules generados por Node.js
+node_modules/
+
+# Ignorar archivos de construcción
+build/
+dist/
+.cache/
+
+# Ignorar archivos específicos de tu sistema
+.DS_Store
+Thumbs.db
